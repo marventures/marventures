@@ -1,4 +1,4 @@
-![linked_in_1500x400](https://user-images.githubusercontent.com/108392678/200155302-cfd0121d-4f4e-4e22-b513-d87afe5acd5a.png)
+![marved_header_white_1500x400](https://user-images.githubusercontent.com/108392678/200177357-72fcc17e-de2c-4ddb-a517-926211c5a31c.png)
 
 <h1 align="center">Hi 👋, I'm Marvin Pacis</h1>
 <h3 align="center">A Computer Enthusiast and Software Developer</h3>
