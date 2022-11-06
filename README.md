@@ -1,7 +1,8 @@
+![linked_in_1500x400](https://user-images.githubusercontent.com/108392678/200155302-cfd0121d-4f4e-4e22-b513-d87afe5acd5a.png)
+
 <h1 align="center">Hi 👋, I'm Marvin Pacis</h1>
 <h3 align="center">A Computer Enthusiast and Software Developer</h3>
 
-![linked_in_1500x400](https://user-images.githubusercontent.com/108392678/200155302-cfd0121d-4f4e-4e22-b513-d87afe5acd5a.png)
 
 - 🔭 I’m currently working on **Fullstack Development**
 
