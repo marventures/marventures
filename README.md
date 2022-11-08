@@ -4,7 +4,9 @@
 <h3 align="center">A Computer Enthusiast and Software Developer</h3>
 
 
-- 🔭 I’m currently working on **Fullstack Development**
+- 🔭 I’m currently working on **Fullstack Development**  
+
+- 🏆 Goal: I want to make an impact in people's lives using technology.
 
 - 🌱 Motto: **Future is in our hands, create it.**
 
