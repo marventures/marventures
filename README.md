@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fullstack Development**  
 
-- 🏆 Goal: I want to make an impact in people's lives using technology.
+- 🏆 Goal: **I want to make an impact in people's lives using technology.**
 
 - 🌱 Motto: **Future is in our hands, create it.**
 
