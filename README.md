@@ -26,4 +26,4 @@
 
 
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=marvedventures&show_icons=true&theme=gotham' alt='Marvin GitHub Stats'/>
-
+  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=marvedventures&layout=compact' alt="Marvin's most used programming language/>
