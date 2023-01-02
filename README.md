@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Marvin Pacis</h1>
 <h3 align="center">A Computer Enthusiast and Software Developer</h3>
-
+![marvedventures's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvedventures&show_icons=true&theme=transparent)
 
 - 🔭 I’m currently focusing on **Fullstack Development**  
 
