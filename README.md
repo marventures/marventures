@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://marvin-morales-pacis.vercel.app/](https://marvin-morales-pacis.vercel.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/marvedventures/**
+- 📫 How to reach me **https://www.linkedin.com/in/marventures/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marvedventures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marvedventures" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marvedventures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvedventures" height="30" width="40" /></a>
-<a href="https://fb.com/marvedventures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marvedventures" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marventures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marventures" height="30" width="40" /></a>
+<a href="https://fb.com/marventures11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marventures" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
