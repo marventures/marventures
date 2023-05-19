@@ -1,8 +1,9 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=marventures&theme=tokyonight&border_radius=15&card_width=1500)](https://git.io/streak-stats)
 ![marved_header_white_1500x400](https://user-images.githubusercontent.com/108392678/200177357-72fcc17e-de2c-4ddb-a517-926211c5a31c.png)
 
 <h1 align="center">Hi 👋, I'm Marvin Pacis</h1>
 <h3 align="center">A Computer Enthusiast and Software Developer</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=marventures&theme=tokyonight&border_radius=15&card_width=750)](https://git.io/streak-stats)
 
 - 🔭 I’m currently focusing on **Fullstack Development**  
 
