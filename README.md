@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Marvin Pacis</h1>
 <h3 align="center">A Computer Enthusiast and Software Developer</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marventures)](https://git.io/streak-stats)
 
 - 🔭 I’m currently focusing on **Fullstack Development**  
 
