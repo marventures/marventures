@@ -11,7 +11,7 @@
 
 - 🌱 Motto: **Future is in our hands, create it.**
 
-- 👨‍💻 All of my projects are available at [https://marvin-morales-pacis.vercel.app/](https://marvin-morales-pacis.vercel.app/)
+- 👨‍💻 Some of my personal projects are available at [https://marvin-morales-pacis.vercel.app/](https://marvin-morales-pacis.vercel.app/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/marventures/**
 
