@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/marventures/**
 
-- 📫 Email me at **contact@marvinpacis.com**
+- 📩 Email me at **contact@marvinpacis.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
