@@ -11,8 +11,6 @@
 
 - 👨‍💻 Some of my personal projects are available at [https://www.marvinpacis.com/](https://www.marvinpacis.com/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/marventures/**
-
 - 📩 Email me at **contact@marvinpacis.com**
 
 <h3 align="left">Connect with me:</h3>
