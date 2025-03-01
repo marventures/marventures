@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvin Pacis</h1>
-<h3 align="center">A Computer Enthusiast and Software Developer</h3>
+<h3 align="center">A Computer Enthusiast and Software Engineer</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marventures&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
 
