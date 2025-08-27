@@ -9,7 +9,7 @@
 
 - 🌱 Motto: **Future is in our hands, create it.**
 
-- 👨‍💻 Some of my personal projects are available at [marvinpacis.com](https://www.marvinpacis.com/)
+- 👨‍💻 Some of my projects are available at [marvinpacis.com](https://www.marvinpacis.com/)
 
 - 📩 Email me at **contact@marvinpacis.com**
 
