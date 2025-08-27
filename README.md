@@ -7,8 +7,6 @@
 
 - 🏆 Goal: **I want to make an impact in people's lives using technology.**
 
-- 🌱 Motto: **Future is in our hands, create it.**
-
 - 👨‍💻 Some of my projects are available at [marvinpacis.com](https://www.marvinpacis.com/)
 
 - 📩 Email me at **contact@marvinpacis.com**
